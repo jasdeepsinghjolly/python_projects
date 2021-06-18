@@ -1,0 +1,1 @@
+This program is for calculate the remaining time for goal set by user. 
